@@ -11,8 +11,8 @@ location: "City, Country"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 google trends activity 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript">
-permalink: 
+permalink: <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript">
+
 Heading 2
 ======
 
